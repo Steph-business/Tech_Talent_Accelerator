@@ -1,0 +1,4 @@
+Week2/Day1/ExerciseXP/genome_scores.csv filter=lfs diff=lfs merge=lfs -text
+Week2/Day1/ExerciseXP/rating.csv filter=lfs diff=lfs merge=lfs -text
+Week2/Day2/ExerciseXP/station_hour.csv filter=lfs diff=lfs merge=lfs -text
+Week2/Day2/ExerciseXP/city_hour.csv filter=lfs diff=lfs merge=lfs -text
