@@ -6,7 +6,8 @@ import random
 keys = ['Ten', 'Twenty', 'Thirty']
 values = [10, 20, 30]
 dict_from_lists = dict(zip(keys, values))
-print("Exercise 1:", dict_from_lists)
+
+print(dict_from_lists)
 
 
 # Exercise 2: Cinemax #2 - calculate ticket prices for a family
@@ -24,7 +25,7 @@ def cinemax_total(family_dict):
 		total += price
 	print("Total: $" + str(total))
 
-print('\nExercise 2:')
+
 cinemax_total(family)
 
 
@@ -56,7 +57,7 @@ print('Keys:', list(brand.keys()))
 def describe_city(city, country='Unknown'):
 	print(f"{city} is in {country}.")
 
-print('\nExercise 4:')
+
 describe_city('Reykjavik', 'Iceland')
 describe_city('Paris')
 
