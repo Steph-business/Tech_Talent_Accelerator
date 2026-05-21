@@ -41,7 +41,6 @@ brand = {
 }
 
 brand['number_stores'] = 2
-print('\nExercise 3:')
 print('Clients:', ', '.join(brand['type_of_clothes']))
 brand['country_creation'] = 'Spain'
 if 'international_competitors' in brand:
