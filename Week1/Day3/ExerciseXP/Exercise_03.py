@@ -1,6 +1,9 @@
 import math
 import random
 
+# EXERCISE XP 
+
+# Exercise 1: Cat Class
 class Cat:
     def __init__(self, name, age):
         self.name = name
